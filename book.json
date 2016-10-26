@@ -12,7 +12,7 @@
     "title": "Server Installation and Configuration Guide",
     "project": {
       "name": "Keycloak",
-      "version": "2.3.0.CR1"
+      "version": "2.3.0.Final"
     },
     "community": true,
     "product": false,
